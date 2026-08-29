@@ -2,14 +2,14 @@
 
 # Mustafa Abughareebeh
 
-### Data Science & AI Undergraduate · Machine Learning · NLP · Explainable AI
+### Data Science & AI Undergraduate · Machine Learning · NLP · Data Analytics · Human-Centered AI
 
-Building practical, human-centered AI systems across **healthcare, accessibility, NLP, and data analytics**.
+Building practical AI and data products across **education, healthcare, accessibility, NLP, and analytics**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mustafa-ai-ds.github.io/mustafaportfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-abughareebeh/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mustafaabughareebeh)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moustafaayoub2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafa-ai-ds.github.io/mustafaportfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-abughareebeh/)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-PROFILE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mustafaabughareebeh)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moustafaayoub2005@gmail.com)
 
 </div>
 
@@ -17,9 +17,9 @@ Building practical, human-centered AI systems across **healthcare, accessibility
 
 ## 👋 About Me
 
-I’m a **B.Sc. Data Science & Artificial Intelligence student at Al al-Bayt University**, focused on building useful AI systems rather than only training models.
+I’m a **B.Sc. Data Science & Artificial Intelligence student at Al al-Bayt University**, focused on building useful AI systems and reproducible data-science projects.
 
-My work and training span **machine learning, deep learning, NLP, explainable AI, data analytics, software engineering, APIs, and open-source AI workflows**.
+My current work spans **machine learning, deep learning, NLP, recommendation systems, data analytics, accessibility AI, healthcare analytics, APIs, and open-source workflows**.
 
 - 🎓 B.Sc. Data Science & Artificial Intelligence — **Expected 2027**
 - 💻 **42 Amman Core Program** student
@@ -34,6 +34,7 @@ My work and training span **machine learning, deep learning, NLP, explainable AI
 <div align="center">
 
 ### Programming & Data
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -44,15 +45,20 @@ My work and training span **machine learning, deep learning, NLP, explainable AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### AI & Machine Learning
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Transformers-6C63FF?style=flat-square)
-![XAI](https://img.shields.io/badge/Explainable%20AI-XAI-00A67E?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-6C63FF?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-555555?style=flat-square)
+![XAI](https://img.shields.io/badge/Explainable_AI-00A67E?style=flat-square)
 
 ### Analytics & Engineering
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -65,25 +71,48 @@ My work and training span **machine learning, deep learning, NLP, explainable AI
 
 | Project | What I Built / Contributed | Stack | Evidence |
 |---|---|---|---|
-| 🩺 **Doctor AI** | Explainable medical diagnostic platform with deep-learning models across multiple diagnostic pathways | TensorFlow · Deep Learning · XAI | Finalist — Jordan Students Pitch Competition 2025 |
-| 👁️ **Noor** | Assistive AI concept and prototype for blind and deaf users using scene description, OCR, sign-language support, and caregiver workflows | Computer Vision · OCR · Accessibility AI | 2nd Place — Mafraq Governorate AI Hackathon 2025 |
-| 🌐 **English → Arabic Machine Translation** | Fine-tuned a pretrained Transformer on parallel English/Arabic text and evaluated translation quality | Transformers · Hugging Face · SacreBLEU · Gradio | [Kaggle Notebook](https://www.kaggle.com/code/mustafaabughareebeh/english-arabic-machine-translation-transformer) |
-| 📊 **U.S. Hospital Performance & Health Tourism** | Built an interactive analytics dashboard from public healthcare and tourism data | Power BI · Power Query · DAX · Data Modeling | Dashboard / presentation |
-| 📰 **Mowthooq** | AI product concept for content verification, spelling support, text-to-speech, and responsible authoring workflows | NLP · LLMs · TTS | Tech3arabi AI Hackathon |
-| 🎓 **GrowWise** | Personalized EdTech concept for identifying skill gaps and recommending learning paths | Product Design · Recommendation Logic | [Repository](https://github.com/Mustafa-AI-DS/GrowWise) |
-
-> **Repository upgrades in progress:** each flagship project will get its own clean repository with screenshots, architecture, setup instructions, results, and a professional README.
+| 🎓 **[GrowWise AI](https://github.com/Mustafa-AI-DS/GrowWise)** | AI-powered skill-gap analysis and personalized learning recommendations with deterministic fallback logic | Python · Streamlit · FastAPI · Gemini · Pandas | [Repository](https://github.com/Mustafa-AI-DS/GrowWise) |
+| 🌐 **[English → Arabic Machine Translation](https://github.com/Mustafa-AI-DS/english-arabic-machine-translation)** | Fine-tuned MarianMT for English-to-Arabic translation and evaluated it with SacreBLEU | Transformers · Hugging Face · Gradio · SacreBLEU | **Test SacreBLEU: 21.93** |
+| 🎓 **[Student Performance Prediction](https://github.com/Mustafa-AI-DS/Student-Performance-Prediction)** | Compared four classifiers for pass/fail prediction and early-warning performance | scikit-learn · Pandas · SVM · Logistic Regression | **Best F1: 0.9455** |
+| 🏥 **[U.S. Hospital Performance & Health Tourism](https://github.com/Mustafa-AI-DS/US-Hospital-Performance-Dashboard)** | Interactive healthcare analytics dashboard using public U.S. hospital and tourism data | Power BI · Power Query · DAX · Data Modeling | [Repository](https://github.com/Mustafa-AI-DS/US-Hospital-Performance-Dashboard) |
+| 👁️ **[Noor Assistive AI](https://github.com/Mustafa-AI-DS/Noor-Assistive-AI)** | Team-built accessibility prototype for visual and hearing impairments | Computer Vision · OCR · YOLO · Gemini · Firebase | **2nd Place — Mafraq Governorate AI Hackathon 2025** |
+| 🩺 **Doctor AI** | Contributed to an explainable medical diagnostic platform with multiple deep-learning diagnostic pathways | TensorFlow · Deep Learning · XAI | **Finalist — Jordan Students Pitch Competition 2025** |
 
 ---
 
-## 🧪 Kaggle & Applied ML
+## 🖼️ Project Gallery
 
-I use Kaggle to document experiments and turn applied AI/data-science work into reproducible notebooks.
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Mustafa-AI-DS/GrowWise">
+<img src="https://raw.githubusercontent.com/Mustafa-AI-DS/GrowWise/main/growwise-demo.png" width="100%" alt="GrowWise AI demo">
+</a>
+<p align="center"><b>GrowWise AI</b></p>
+</td>
+<td width="50%">
+<a href="https://github.com/Mustafa-AI-DS/english-arabic-machine-translation">
+<img src="https://raw.githubusercontent.com/Mustafa-AI-DS/english-arabic-machine-translation/main/translation-demo.png" width="100%" alt="English Arabic translation demo">
+</a>
+<p align="center"><b>English → Arabic Machine Translation</b></p>
+</td>
+</tr>
 
-- 🌍 [English–Arabic Machine Translation (Transformer)](https://www.kaggle.com/code/mustafaabughareebeh/english-arabic-machine-translation-transformer)
-- ⛏️ [Data Mining Notebook](https://www.kaggle.com/code/mustafaabughareebeh/data-mining)
-
-[![Kaggle](https://img.shields.io/badge/Explore%20my%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mustafaabughareebeh)
+<tr>
+<td width="50%">
+<a href="https://github.com/Mustafa-AI-DS/US-Hospital-Performance-Dashboard">
+<img src="https://raw.githubusercontent.com/Mustafa-AI-DS/US-Hospital-Performance-Dashboard/main/hospital-dashboard-preview.png" width="100%" alt="U.S. Hospital Power BI dashboard">
+</a>
+<p align="center"><b>U.S. Hospital Performance Dashboard</b></p>
+</td>
+<td width="50%">
+<a href="https://github.com/Mustafa-AI-DS/Student-Performance-Prediction">
+<img src="https://raw.githubusercontent.com/Mustafa-AI-DS/Student-Performance-Prediction/main/model-comparison-preview.png" width="100%" alt="Student performance model comparison">
+</a>
+<p align="center"><b>Student Performance Prediction</b></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,13 +131,13 @@ I use Kaggle to document experiments and turn applied AI/data-science work into 
 
 I’m interested in opportunities and collaborations involving:
 
-**Data Science · AI Engineering · Machine Learning · NLP · Explainable AI · Responsible AI · Healthcare AI · Data Analytics**
+**Data Science · AI Engineering · Machine Learning · NLP · Responsible AI · Healthcare AI · Accessibility AI · Data Analytics**
 
 <div align="center">
 
-[Portfolio](https://mustafa-ai-ds.github.io/mustafaportfolio/) •
-[LinkedIn](https://www.linkedin.com/in/mustafa-abughareebeh/) •
-[Kaggle](https://www.kaggle.com/mustafaabughareebeh) •
+[Portfolio](https://mustafa-ai-ds.github.io/mustafaportfolio/) ·
+[LinkedIn](https://www.linkedin.com/in/mustafa-abughareebeh/) ·
+[Kaggle](https://www.kaggle.com/mustafaabughareebeh) ·
 [GitHub](https://github.com/Mustafa-AI-DS)
 
 </div>
